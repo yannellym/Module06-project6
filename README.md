@@ -15,4 +15,4 @@ It uses the Collections Framework and follows code guidelines.
 - Description: A maintenance task executed on Module 4's project. The code was modified to develop a program that reads a list of Integer numbers from the scanned input and saves them into a Stack sorted from 
 the smallest to the largest. It uses the Collections Framework and follows code guidelines.
 - Example:
- <img src="" />
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc5OThjNjk2MWNmNmU1N2NiZmFlMTVhMWRlMjA0ZGY4NzY3OWVkNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Zyx7zPZyxGQs23MsGN/giphy.gif" />
